@@ -100,4 +100,5 @@ Kindly follow the following steps:
 |          |        |    april_fifteen|         |        |    april_fifteen|            |        |    april_fifteen|  
 |          |        |    sep_fifteen  |         |        |    sep_fifteen  |            |        |    sep_fifteen  |
 
+10. 
 10. Now "script_number_of_nodes_per_feature.py", "script_number_of_nodes_per_feature_by_particular_user.py", and "script_degree_of_street_junctions.py" were executed to generate data for graphical analysis.
