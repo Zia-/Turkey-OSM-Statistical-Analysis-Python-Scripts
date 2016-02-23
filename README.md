@@ -21,11 +21,11 @@ Kindly follow the following steps:
 
 9. The final database structure was like this:
 
-| Database        | Schema           | Tabel  |
-| ------------- |:-------------:| -----:|
-| Point      | public | turkey_province |
-|       | s1      |   april_seven |
-|  |  |    sep_seven |
+| Database | Schema | Table | Database | Schema | Table  | Database | Schema | Table  |
+| -------- |:------:| -----:| -------- |:------:| ------:| -------- |:------:| ------:|
+| Point    | public | turkey_province | Edge    | public | turkey_province | Polygon    | public | turkey_province |
+|          | s1     |   april_seven   |         |   s1   |   april_seven   |            |    s1  |   april_seven   |
+|          |        |    sep_seven    |         |        |    sep_seven    |            |        |    sep_seven    |
 
 
 10.
