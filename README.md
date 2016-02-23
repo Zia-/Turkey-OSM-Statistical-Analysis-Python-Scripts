@@ -25,8 +25,80 @@ Kindly follow the following steps:
 | -------- |:------:| -----:| -------- |:------:| ------:| -------- |:------:| ------:|
 | Point    | public | turkey_province | Edge    | public | turkey_province | Polygon    | public | turkey_province |
 |          | s1     |   april_seven   |         |   s1   |   april_seven   |            |    s1  |   april_seven   |
-|          |        |    sep_seven    |         |        |    sep_seven    |            |        |    sep_seven    |
-
+|          |        |    sep_seven    |         |        |    sep_seven    |            |        |    sep_seven    | 
+|          |        |    april_eight  |         |        |    april_eight  |            |        |    april_eight  |
+|          |        |    sep_eight    |         |        |    sep_eight    |            |        |    sep_eight    | 
+|          |        |    april_nine   |         |        |    april_nine   |            |        |    april_nine   |
+|          |        |    sep_nine     |         |        |    sep_nine     |            |        |    sep_nine     | 
+|          |        |    april_ten    |         |        |    april_ten    |            |        |    april_ten    | 
+|          |        |    sep_ten      |         |        |    sep_ten      |            |        |    sep_ten      | 
+|          |        |    april_eleven |         |        |    april_eleven |            |        |    april_eleven | 
+|          |        |    sep_eleven   |         |        |    sep_eleven   |            |        |    sep_eleven   | 
+|          |        |    april_twelve |         |        |    april_twelve |            |        |    april_twelve |    
+|          |        |    sep_twelve   |         |        |    sep_twelve   |            |        |    sep_twelve   |    
+|          |        |   april_thirteen|         |        |   april_thirteen|            |        |   april_thirteen|  
+|          |        |    sep_thirteen |         |        |    sep_thirteen |            |        |    sep_thirteen |
+|          |        |   april_fourteen|         |        |   april_fourteen|            |        |   april_fourteen|  
+|          |        |    sep_fourteen |         |        |    sep_fourteen |            |        |    sep_fourteen |     
+|          |        |    april_fifteen|         |        |    april_fifteen|            |        |    april_fifteen|  
+|          |        |    sep_fifteen  |         |        |    sep_fifteen  |            |        |    sep_fifteen  |    
+|          | s2     |   april_seven   |         |   s2   |   april_seven   |            |    s2  |   april_seven   |
+|          |        |    sep_seven    |         |        |    sep_seven    |            |        |    sep_seven    | 
+|          |        |    april_eight  |         |        |    april_eight  |            |        |    april_eight  |
+|          |        |    sep_eight    |         |        |    sep_eight    |            |        |    sep_eight    | 
+|          |        |    april_nine   |         |        |    april_nine   |            |        |    april_nine   |
+|          |        |    sep_nine     |         |        |    sep_nine     |            |        |    sep_nine     | 
+|          |        |    april_ten    |         |        |    april_ten    |            |        |    april_ten    | 
+|          |        |    sep_ten      |         |        |    sep_ten      |            |        |    sep_ten      | 
+|          |        |    april_eleven |         |        |    april_eleven |            |        |    april_eleven | 
+|          |        |    sep_eleven   |         |        |    sep_eleven   |            |        |    sep_eleven   | 
+|          |        |    april_twelve |         |        |    april_twelve |            |        |    april_twelve |    
+|          |        |    sep_twelve   |         |        |    sep_twelve   |            |        |    sep_twelve   |    
+|          |        |   april_thirteen|         |        |   april_thirteen|            |        |   april_thirteen|  
+|          |        |    sep_thirteen |         |        |    sep_thirteen |            |        |    sep_thirteen |
+|          |        |   april_fourteen|         |        |   april_fourteen|            |        |   april_fourteen|  
+|          |        |    sep_fourteen |         |        |    sep_fourteen |            |        |    sep_fourteen |     
+|          |        |    april_fifteen|         |        |    april_fifteen|            |        |    april_fifteen|  
+|          |        |    sep_fifteen  |         |        |    sep_fifteen  |            |        |    sep_fifteen  |
+|          |    *   |                 |         |    *   |                 |            |   *    |                 | 
+|          |    *   |                 |         |    *   |                 |            |   *    |                 |
+|          |    *   |                 |         |    *   |                 |            |   *    |                 |
+|          | s86    |   april_seven   |         |   s86  |   april_seven   |            |    s86 |   april_seven   |
+|          |        |    sep_seven    |         |        |    sep_seven    |            |        |    sep_seven    | 
+|          |        |    april_eight  |         |        |    april_eight  |            |        |    april_eight  |
+|          |        |    sep_eight    |         |        |    sep_eight    |            |        |    sep_eight    | 
+|          |        |    april_nine   |         |        |    april_nine   |            |        |    april_nine   |
+|          |        |    sep_nine     |         |        |    sep_nine     |            |        |    sep_nine     | 
+|          |        |    april_ten    |         |        |    april_ten    |            |        |    april_ten    | 
+|          |        |    sep_ten      |         |        |    sep_ten      |            |        |    sep_ten      | 
+|          |        |    april_eleven |         |        |    april_eleven |            |        |    april_eleven | 
+|          |        |    sep_eleven   |         |        |    sep_eleven   |            |        |    sep_eleven   | 
+|          |        |    april_twelve |         |        |    april_twelve |            |        |    april_twelve |    
+|          |        |    sep_twelve   |         |        |    sep_twelve   |            |        |    sep_twelve   |    
+|          |        |   april_thirteen|         |        |   april_thirteen|            |        |   april_thirteen|  
+|          |        |    sep_thirteen |         |        |    sep_thirteen |            |        |    sep_thirteen |
+|          |        |   april_fourteen|         |        |   april_fourteen|            |        |   april_fourteen|  
+|          |        |    sep_fourteen |         |        |    sep_fourteen |            |        |    sep_fourteen |     
+|          |        |    april_fifteen|         |        |    april_fifteen|            |        |    april_fifteen|  
+|          |        |    sep_fifteen  |         |        |    sep_fifteen  |            |        |    sep_fifteen  |
+|          | s87    |   april_seven   |         |   s87  |   april_seven   |            |    s87 |   april_seven   |
+|          |        |    sep_seven    |         |        |    sep_seven    |            |        |    sep_seven    | 
+|          |        |    april_eight  |         |        |    april_eight  |            |        |    april_eight  |
+|          |        |    sep_eight    |         |        |    sep_eight    |            |        |    sep_eight    | 
+|          |        |    april_nine   |         |        |    april_nine   |            |        |    april_nine   |
+|          |        |    sep_nine     |         |        |    sep_nine     |            |        |    sep_nine     | 
+|          |        |    april_ten    |         |        |    april_ten    |            |        |    april_ten    | 
+|          |        |    sep_ten      |         |        |    sep_ten      |            |        |    sep_ten      | 
+|          |        |    april_eleven |         |        |    april_eleven |            |        |    april_eleven | 
+|          |        |    sep_eleven   |         |        |    sep_eleven   |            |        |    sep_eleven   | 
+|          |        |    april_twelve |         |        |    april_twelve |            |        |    april_twelve |    
+|          |        |    sep_twelve   |         |        |    sep_twelve   |            |        |    sep_twelve   |    
+|          |        |   april_thirteen|         |        |   april_thirteen|            |        |   april_thirteen|  
+|          |        |    sep_thirteen |         |        |    sep_thirteen |            |        |    sep_thirteen |
+|          |        |   april_fourteen|         |        |   april_fourteen|            |        |   april_fourteen|  
+|          |        |    sep_fourteen |         |        |    sep_fourteen |            |        |    sep_fourteen |     
+|          |        |    april_fifteen|         |        |    april_fifteen|            |        |    april_fifteen|  
+|          |        |    sep_fifteen  |         |        |    sep_fifteen  |            |        |    sep_fifteen  |
 
 10.
 
