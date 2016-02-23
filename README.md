@@ -21,11 +21,11 @@ Kindly follow the following steps:
 
 9. The final database structure was like this:
 
-| Tables        | Are           | Cool  |
+| Database        | Schema           | Tabel  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Point      | public | turkey_province |
+|       | s1      |   april_seven |
+|  |  |    sep_seven |
 
 
 10.
