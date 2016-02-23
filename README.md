@@ -1,5 +1,5 @@
 # Turkey-OSM-Statistical-Analysis-Python-Scripts.
-A step-by-step guide about how Planet OSM dump file was processed using Python scripts for the scientific article, entitled: "Analysing growth and governing factors of Turkey OpenStreetMap dataset".
+A guide about how Planet OSM dump file was processed using Python scripts for the scientific article, entitled: "Analysing growth and governing factors of Turkey OpenStreetMap dataset".
 
 Kindly follow the following steps:
 
@@ -20,6 +20,15 @@ Kindly follow the following steps:
 8. Also turkey province shapefile was uploaded in order to calculate provincal area in public schema.
 
 9. The final database structure was like this:
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+10.
 
 Point
 	public
